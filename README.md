@@ -4,7 +4,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/simplyaspect.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="simplyaspect.dev" height="30" width="40" /></a>
 <a href="https://twitter.com/simply_aspect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simply_aspect" height="30" width="40" /></a>
 <a href="https://discord.gg/PWpJuNdJg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PWpJuNdJg" height="30" width="40" /></a>
 </p>
